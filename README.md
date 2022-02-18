@@ -2,4 +2,4 @@
 
 
 
-Swin Transformer: Hierarchical Vision Transformer using Shifted Windows （CVPR 2021）
+Swin Transformer: Hierarchical Vision Transformer using Shifted Windows （ICCV 2021 best paper）
