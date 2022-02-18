@@ -2,4 +2,4 @@
 
 
 
-Swin Transformer: Hierarchical Vision Transformer using Shifted Windows （ICCV 2021 best paper）
+[Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (ICCV 2021 best paper)](https://zhuanlan.zhihu.com/p/469360918/)
