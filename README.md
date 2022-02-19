@@ -2,4 +2,5 @@
 
 
 
-[Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (ICCV 2021 best paper)](https://zhuanlan.zhihu.com/p/469360918/)
+1. [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (ICCV 2021 best paper)](https://zhuanlan.zhihu.com/p/469360918/)
+2. [Masked Autoencoders Are Scalable Vision Learners](https://zhuanlan.zhihu.com/p/469514863/)
