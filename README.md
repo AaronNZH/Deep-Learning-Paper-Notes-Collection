@@ -2,7 +2,7 @@
 
 
 ### Net Architecture
-1. [Deep Residual Learning for Image Recognition (CVPR 2016 Best Paper)](https://zhuanlan.zhihu.com/p/469618725)
+1. [ResNet有效的两个解释](https://zhuanlan.zhihu.com/p/469618725)
 
 ### Transformer
 1. [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (ICCV 2021 Best Paper)](https://zhuanlan.zhihu.com/p/469360918/)
