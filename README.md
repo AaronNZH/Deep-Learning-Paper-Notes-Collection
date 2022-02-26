@@ -2,7 +2,8 @@
 
 
 ### Net Architecture
-1. [残差连接能帮助训练深层网络两个解释](https://zhuanlan.zhihu.com/p/469618725)
+1. [为何ResNet有效](https://zhuanlan.zhihu.com/p/469618725)
+2. [为何Self Attention有效](https://zhuanlan.zhihu.com/p/472860589)
 
 ### Transformer
 1. [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (ICCV 2021 Best Paper)](https://zhuanlan.zhihu.com/p/469360918/)
