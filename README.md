@@ -3,10 +3,10 @@
 
 ### Net Architecture
 1. [为何ResNet有效](https://zhuanlan.zhihu.com/p/469618725)
-2. [为何Self Attention有效](https://zhuanlan.zhihu.com/p/472860589)
 
 ### Transformer
-1. [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (ICCV 2021 Best Paper)](https://zhuanlan.zhihu.com/p/469360918/)
+1. [为何Self Attention有效](https://zhuanlan.zhihu.com/p/472860589)
+2. [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (ICCV 2021 Best Paper)](https://zhuanlan.zhihu.com/p/469360918/)
 
 ### Self Supervision
 1. [Masked Autoencoders Are Scalable Vision Learners (CVPR 2022)](https://zhuanlan.zhihu.com/p/469514863/)
