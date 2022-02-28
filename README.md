@@ -2,7 +2,7 @@
 
 
 ### Net Architecture
-1. [为何ResNet有效](https://zhuanlan.zhihu.com/p/469618725)
+1. [残差连接在做什么](https://zhuanlan.zhihu.com/p/469618725)
 
 ### Transformer
 1. [为何Self Attention有效](https://zhuanlan.zhihu.com/p/472860589)
