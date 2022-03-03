@@ -11,5 +11,5 @@
 ### Self Supervision
 1. [Masked Autoencoders Are Scalable Vision Learners (CVPR 2022)](https://zhuanlan.zhihu.com/p/469514863/)
 
-### Multi Modal
+### Multi-Modality
 1. [Learning Transferable Visual Models From Natural Language Supervision (ICML 2021)](https://zhuanlan.zhihu.com/p/469580915/)
